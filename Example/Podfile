@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'DailyExpenseTracker_Example' do
+  pod 'DailyExpenseTracker', :path => '../'
+
+  target 'DailyExpenseTracker_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
