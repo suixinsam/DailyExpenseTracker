@@ -9,7 +9,7 @@
 import UIKit
 import DailyExpenseTracker
 
-class ViewController: UIViewController {
+@objc class ViewController: UIViewController {
     
     var isBlinking = false
     let blinkingLabel = BlinkingLabel(frame: CGRect(x: 10, y: 80, width: 200, height: 30))
