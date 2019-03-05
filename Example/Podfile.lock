@@ -1,0 +1,16 @@
+PODS:
+  - DailyExpenseTracker (0.1.0)
+
+DEPENDENCIES:
+  - DailyExpenseTracker (from `../`)
+
+EXTERNAL SOURCES:
+  DailyExpenseTracker:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  DailyExpenseTracker: 67891f03d76af42ef2d80d57ab452e17c94d2ada
+
+PODFILE CHECKSUM: ecf219dbd0850b2e5aa271c3a9d6d98d337dad4a
+
+COCOAPODS: 1.6.0

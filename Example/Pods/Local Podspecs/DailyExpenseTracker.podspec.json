@@ -1,0 +1,22 @@
+{
+  "name": "DailyExpenseTracker",
+  "version": "0.1.0",
+  "summary": "A short description of DailyExpenseTracker.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/suixinsam/DailyExpenseTracker",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "suixinsam": "sam.shi@activenetwork.com"
+  },
+  "source": {
+    "git": "https://github.com/suixinsam/DailyExpenseTracker.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "DailyExpenseTracker/Classes/**/*"
+}
